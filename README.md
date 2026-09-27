@@ -1,4 +1,4 @@
-# 💻 Exercícios de Lógica de Programação — VisualG
+# 💻 Exercícios de Lógica de Programação - VisualG
 
 Repositório contendo **86** resoluções de algoritmos desenvolvidos em pseudocódigo (Portugol) utilizando o **VisualG 3.0**, abrangendo exercícios práticos de lógica, estruturas condicionais e laços de repetição.
 
